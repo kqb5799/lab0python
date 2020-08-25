@@ -1,5 +1,5 @@
-print("Hello,  + name + ")
-name = input("ENter your name: ")
+print("Hello, {name}!")
+name = input("Enter your name: ")
 age = input("Enter your age: ")
 age = int(age)
 print(age+1)
